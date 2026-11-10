@@ -1,0 +1,7 @@
+Plugin v0.0.1 running on KiCad 10.0.6 and Python 3.14.7 (main, Nov 10 2011, 15:00:00) [GCC 16.2.0] on linux.
+Config file /home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsMIX/synapsMIX.kicad_pcb.hierpcb.json not found. Creating new one.
+
+├─ /CVin/
+├─ /EurorackPower/
+├─ /Mixer/
+├─ /AudioIn/

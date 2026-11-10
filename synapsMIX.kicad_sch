@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "80d97038-3cb8-4274-b21c-2a27dedf7068")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 111.125 120.65)
+		(size 32.385 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0cf3e141-2aea-4998-a120-3c94f9e77bb1")
+		(property "Sheetname" "CVin"
+			(at 111.125 119.9384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cvin.kicad_sch"
+			(at 111.125 160.6046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsMIX"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 23.495)
+		(size 55.88 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4cbf227e-4421-478a-9d2e-fe31606c9582")
+		(property "Sheetname" "EurorackPower"
+			(at 24.13 22.7834 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eurorackpower.kicad_sch"
+			(at 24.13 82.4996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsMIX"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 33.655)
+		(size 40.005 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "61347d69-5d6e-41e6-8b68-17602ddeacbb")
+		(property "Sheetname" "Mixer"
+			(at 114.3 32.9434 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mixer.kicad_sch"
+			(at 114.3 69.7996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsMIX"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.655 118.745)
+		(size 48.895 46.355)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "81226265-a45a-48a9-a65f-86b671999ba0")
+		(property "Sheetname" "AudioIn"
+			(at 33.655 118.0334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "audioin.kicad_sch"
+			(at 33.655 165.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsMIX"
+				(path "/80d97038-3cb8-4274-b21c-2a27dedf7068"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
