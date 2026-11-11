@@ -2,6 +2,10 @@
 
 **synapsMIX** is a compact, high-performance 4-channel analog VCA and summing sub-mixer for the Eurorack modular synth format.
 
+<img width="1351" height="1421" alt="synapsMIX_top" src="https://github.com/user-attachments/assets/fd446835-6aec-4573-98f4-4c43cc5db9b6" />
+<img width="1351" height="1421" alt="synapsMIX_button" src="https://github.com/user-attachments/assets/012cb4aa-df66-421f-ae32-4f6b377dd9c8" />
+
+
 ## ⚡ Overview & Features
 
 * **4 Independent VCAs:** Built around dual **LM13700** Operational Transconductance Amplifiers (OTAs) for linear CV response and clean signal amplification.
